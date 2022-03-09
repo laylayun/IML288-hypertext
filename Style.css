@@ -25,3 +25,23 @@ a:hover {
 #bg8a {
   background-image: url(Sources/snacks.jpg);
 }
+
+#bg8b {
+  background-image: url(Sources/read.jpg);
+}
+
+#bg8c {
+  background-image: url(Sources/swing.jpg);
+}
+
+#bg9a {
+  background-image: url(Sources/bathroom.png);
+}
+
+#bg9b {
+  background-image: url(Sources/apples.jpg);
+}
+
+#bg10 {
+  background-image: url(Sources/mathclass.jpg);
+}
