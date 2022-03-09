@@ -1,0 +1,23 @@
+body {
+  background-size: cover;
+  height: 100vh;
+}
+
+p {
+  font-size: 16pt;
+}
+
+a {
+  color: rgb(255, 188, 14);
+  font-size: 16pt;
+  font-style: normal;
+}
+
+a:hover {
+  color: white;
+  background-color: rgb(255, 188, 14);
+}
+
+#bg7 {
+  background-image: url(Sources/break.jpg);
+}
